@@ -1,0 +1,6 @@
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID;
+
+/* 동물 보호소 테이블에서 ANIMAL_ID와 NAME을 조회하고
+   ANIMAL_ID 기준으로 정렬하는 SQL 작성 */
